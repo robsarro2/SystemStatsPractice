@@ -3,7 +3,7 @@ package systemstatspractice;
 
 /**
  *
- * @author Rob Sarro
+ * @author Rob
  */
 public class SystemStatsPractice {
 
